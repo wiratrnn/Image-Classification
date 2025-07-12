@@ -1,4 +1,4 @@
-# Proyek Akhir: Image Classification Buah
+# Proyek Akhir: Image Classification
 
 Selamat datang di repositori proyek akhir **Image Classification** pada kelas **Belajar Fundamental Deep Learning** dari Dicoding! Pada proyek ini, saya membangun dan melatih model deep learning untuk mengklasifikasikan gambar buah ke dalam empat kategori: **apel**, **jeruk**, **mangga**, dan **pisang**.
 
