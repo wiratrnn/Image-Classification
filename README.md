@@ -9,8 +9,3 @@ Selamat datang di repositori proyek akhir **Image Classification** pada kelas **
 - **Kelas**: Belajar Fundamental Deep Learning (Dicoding)  
 - **Topik**: Image Classification  
 - **Tujuan**: Menerapkan konsep-konsep dasar deep learning (konvolusi, pooling, aktivasi, optimasi) untuk membedakan empat jenis buah berdasarkan citra.
-
----
-
-## 🗂️ Struktur Repositori
-
